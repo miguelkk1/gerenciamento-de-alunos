@@ -69,7 +69,7 @@ Com base na nota:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por José Miguel
 
 ---
 
